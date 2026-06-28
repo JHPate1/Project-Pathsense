@@ -28,14 +28,6 @@ For this system, we have established a network of:
 
 The raw output from these sensors is sent to the custom written Python backend which interprets things real time.
 
-# THE FEEDBACK
-
-The collected data can be processed and presented to the user through two different interfaces:
-
-* Haptic Feedback: Three rows of vibration actuators are embedded into the vest, creating a intuitive feel for what lay ahead; A small vibration at your left side indicates that an obstruction is to your left. The farther distance the less intense the vibration.
-
-* Audio Alerts: The system uses voice-driven, discrete audio output to alert you of more serious or pressing issues such as 'Person ahead,' or 'Stairs, STOP,' without startling you with unnecessary noise.
-
 ---
 ## System Architecture
 ```
