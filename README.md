@@ -9,6 +9,13 @@
 PathSense is a wearable computer vision navigation vest (HOLY JUMBLE OF WORDS) intended to provide users with a more confidence-gaining awareness of their surroundings. With a powerful Raspberry Pi 5 in its core, and a combined network of precise distance sensors and tactile & audio feedback, this vest allows individuals with any level of vision to traverse indoor and outdoor spaces alike.
 
 ![Vest](https://cdn.discordapp.com/attachments/1354640349103915079/1521217044446449878/CAMERA_2.png?ex=6a440746&is=6a42b5c6&hm=a644eeadb8ac3316632f1a5d2f3a6596e5866c3249ba2b2d532f0bc8569d4275&)
+![PCB](https://media.discordapp.net/attachments/1354640349103915079/1521217707922559006/image.png?ex=6a4407e4&is=6a42b664&hm=9d50a1db51179282797ccb4117ffbdd372046879f632e1c162abd8dd3f218fb1&=&format=webp&quality=lossless)
+![SCHEM](https://media.discordapp.net/attachments/1354640349103915079/1521217799769423954/image.png?ex=6a4407fa&is=6a42b67a&hm=e688dc4a26009fc38e604d1c2b840ac8ea18102e5adc45fd4470419b9d454896&=&format=webp&quality=lossless)
+![CAD](https://media.discordapp.net/attachments/1354640349103915079/1521221528040112338/image.png?ex=6a440b73&is=6a42b9f3&hm=d0275ca18190411856291aec09e29b62e58b4aac0fee33d92604aa2d403a2671&=&format=webp&quality=lossless)
+![CAD](https://media.discordapp.net/attachments/1354640349103915079/1521221596243824690/image.png?ex=6a440b83&is=6a42ba03&hm=ed6a33c5e690fcfecc62da564273822d9b0d3e314a6ca83ceb8a29ee58382c05&=&format=webp&quality=lossless)
+
+(Note the hook on the back will be made with a type of plastic that bends in so it will behave more like a clip)
+(I do not know the name of the plastic yet)
 
 ---
 
