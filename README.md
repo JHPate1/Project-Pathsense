@@ -98,19 +98,28 @@ PathSense uses a custom designed Raspberry Pi 5 expansion HAT to keep the wearab
 
 ### Purchased Components
 
-| Ref | Component | Description | Qty | Unit Price | Total |
-|-----|-----------|-------------|-----|------------|-------|
-| RPI5 | iRasptek Starter Kit for Raspberry Pi 5 | 8GB RAM, preloaded 64GB Pi OS, red and white case | 1 | $224.99 | $224.99 |
-| USB C | 50FT USB C Power Cable for CCTV Camera | Long flat USB C extension charging cable | 1 | $16.99 | $16.99 |
-| HOTPLATE | WEP 946D IV 100x50mm Small LED Soldering Hot Plate | SMD/BGA rework reflow, 210W preheater with digital temp control | 1 | $35.99 | $35.99 |
-| VEST | JKSafety Hi Vis Reflective Safety Vest | High visibility mesh vest with pockets, black, size L | 1 | $9.99 | $9.99 |
-| CAM | innomaker Raspberry Pi Camera Module 5MP 1080P | OV5647 sensor with M12 FOV90 IR filter lens | 1 | $16.99 | $16.99 |
-| HAPTIC | HilBeliFU Vibration Motor Module | DC5V 9000RPM, PWM control, 3 pack | 1 | $7.99 | $7.99 |
-| GPS | DWEII GPS+BDS Dual Mode Module | ATGM336H flight control satellite positioning, 2 pack | 1 | $17.99 | $17.99 |
-| TOF | TOF400C VL53L1X 4M Laser Ranging Sensor | Time of flight distance sensor, IIC output, 4 pack | 1 | $21.89 | $21.89 |
-| OTG | USB 3.0 to USB C 3.1 Adapter | 10Gbps bi directional OTG converter, 2 pack | 1 | $6.99 | $6.99 |
-
-**Subtotal (Purchased):** $358.48
+| Ref    | Component                              | Description                                                                                         | Qty | Unit Price                       | Total        |
+| ------ | -------------------------------------- | --------------------------------------------------------------------------------------------------- | --- | -------------------------------- | ------------ |
+| RPI5   | Raspberry Pi 5/2GB                     | Raspberry Pi 5 Single Board Computer, 2GB RAM                                                       | 1   | \$65.00                          | \$65.00      |
+| TOF    | TOF400C VL53L1X                        | 4M Laser Ranging Sensor Module, TOF Time-of-Flight Distance, IIC Output, 4pcs                       | 1   | \$21.89                          | \$21.89      |
+| WIRE   | Fermerry 22AWG Stranded Wire           | 22AWG Stranded Wire Spool, 10ft Each, 6 Colors, Flexible Silicone Hook up Wire Kit, Tinned Copper   | 1   | \$12.29                          | \$12.29      |
+| GPS    | NEO-6M GPS Module                      | GPS Module Receiver, Navigation Satellite Positioning, with Antenna, High Sensitivity               | 1   | —                                | —            |
+| VEST   | JKSafety Hi Vis Reflective Safety Vest | Hi Vis Reflective Safety Vest with Pockets, Mesh Fabric, Construction Safety Apparel, Black, Size L | 1   | \$9.99                           | \$9.99       |
+| HAPTIC | HilBeliFU Vibration Motor Module       | DC5V 9000RPM Vibration Motor Module, PWM Control, for DIY/Wearable Smart Device, 3pcs               | 1   | —                                | —            |
+| CAM    | Arducam 5MP Camera for Raspberry Pi    | 5MP OV5647 Camera Module V1, 1080P HD, for Raspberry Pi 5/4/3/3B+                                   | 1   | \$6.99                           | \$6.99       |
+| PSU    | Raspberry Pi 5 Power Supply            | PD Adapter USB C, 5V 5A Power Adapter for Raspberry Pi 5                                            | 1   | —                                | —            |
+| CONN   | JST-XH 2.54mm Connector Kit            | 460Pcs JST-XH Connector Kit, 2.54mm Male/Female 2/3/4/5/6Pin Header Housing, Terminal Wires         | 1   | —                                | —            |
+|        |                                        |                                                                                                     |     | **Subtotal (Pishop)**            | **\$65.00**  |
+|        |                                        |                                                                                                     |     | **Shipping (Pishop)**            | **\$11.51**  |
+|        |                                        |                                                                                                     |     | **Tax (Pishop)**                 | **\$3.45**   |
+|        |                                        |                                                                                                     |     | **Pishop TOTAL**                 | **\$79.96**  |
+|        |                                        |                                                                                                     |     |                                  |              |
+|        |                                        |                                                                                                     |     | **Items (Amazon)**               | **\$88.50**  |
+|        |                                        |                                                                                                     |     | **Shipping & handling (Amazon)** | **\$0.00**   |
+|        |                                        |                                                                                                     |     | **Estimated tax (Amazon)**       | **\$4.69**   |
+|        |                                        |                                                                                                     |     | **Amazon TOTAL**                 | **\$93.06**  |
+|        |                                        |                                                                                                     |     |                                  |              |
+|        |                                        |                                                                                                     |     | **GRAND TOTAL**                  | **\$173.02** |
 
 ### PCBWay
 
@@ -118,7 +127,7 @@ PathSense uses a custom designed Raspberry Pi 5 expansion HAT to keep the wearab
 |-----|-----------|-------------|-----|------------|-------|
 | PCB | Custom Pi 5 HAT PCB | 2 layer, HASL finish, 1.6mm FR4 | 5 | $4.10 | $20.50 |
 
-**Subtotal (PCBWay):** $20.50
+**Subtotal (PCBWay):** $FREE (grant)
 
 ### PCB Parts On Hand
 All Pi Hat Connectors
@@ -128,12 +137,9 @@ All Pi Hat Connectors
 
 | Category | Amount |
 |----------|--------|
-| Purchased Components | $358.48 |
-| Shipping & Handling | $0.00 |
-| PCBWay (Custom HAT) | $20.50 |
-| **Subtotal** | **$378.98** |
-| Estimated Tax | $21.00 |
-| **Grand Total** | **$399.98** |
+| Purchased Components | $173.02 |
+| PCBWay (Custom HAT) | $00.00 |
+| **Grand Total** | **$173.02** |
 
 ---
 
