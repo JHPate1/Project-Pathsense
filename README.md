@@ -1,7 +1,8 @@
 # PathSense
 
 > Autonomous spatial awareness for the visually impaired. A light-weight, intelligent, vest-wearable vision for your environment.
-
+(Tracked Via LAPSE)
+https://stardance.hackclub.com/projects/27167
 ---
 
 # WHAT IT IS
