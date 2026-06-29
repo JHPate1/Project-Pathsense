@@ -98,28 +98,23 @@ PathSense uses a custom designed Raspberry Pi 5 expansion HAT to keep the wearab
 
 ### Purchased Components
 
-| Ref    | Component                              | Description                                                                                         | Qty | Unit Price                       | Total        |
-| ------ | -------------------------------------- | --------------------------------------------------------------------------------------------------- | --- | -------------------------------- | ------------ |
-| RPI5   | Raspberry Pi 5/2GB                     | Raspberry Pi 5 Single Board Computer, 2GB RAM                                                       | 1   | \$65.00                          | \$65.00      |
-| TOF    | TOF400C VL53L1X                        | 4M Laser Ranging Sensor Module, TOF Time-of-Flight Distance, IIC Output, 4pcs                       | 1   | \$21.89                          | \$21.89      |
-| WIRE   | Fermerry 22AWG Stranded Wire           | 22AWG Stranded Wire Spool, 10ft Each, 6 Colors, Flexible Silicone Hook up Wire Kit, Tinned Copper   | 1   | \$12.29                          | \$12.29      |
-| GPS    | NEO-6M GPS Module                      | GPS Module Receiver, Navigation Satellite Positioning, with Antenna, High Sensitivity               | 1   | —                                | —            |
-| VEST   | JKSafety Hi Vis Reflective Safety Vest | Hi Vis Reflective Safety Vest with Pockets, Mesh Fabric, Construction Safety Apparel, Black, Size L | 1   | \$9.99                           | \$9.99       |
-| HAPTIC | HilBeliFU Vibration Motor Module       | DC5V 9000RPM Vibration Motor Module, PWM Control, for DIY/Wearable Smart Device, 3pcs               | 1   | —                                | —            |
-| CAM    | Arducam 5MP Camera for Raspberry Pi    | 5MP OV5647 Camera Module V1, 1080P HD, for Raspberry Pi 5/4/3/3B+                                   | 1   | \$6.99                           | \$6.99       |
-| PSU    | Raspberry Pi 5 Power Supply            | PD Adapter USB C, 5V 5A Power Adapter for Raspberry Pi 5                                            | 1   | —                                | —            |
-| CONN   | JST-XH 2.54mm Connector Kit            | 460Pcs JST-XH Connector Kit, 2.54mm Male/Female 2/3/4/5/6Pin Header Housing, Terminal Wires         | 1   | —                                | —            |
-|        |                                        |                                                                                                     |     | **Subtotal (Pishop)**            | **\$65.00**  |
-|        |                                        |                                                                                                     |     | **Shipping (Pishop)**            | **\$11.51**  |
-|        |                                        |                                                                                                     |     | **Tax (Pishop)**                 | **\$3.45**   |
-|        |                                        |                                                                                                     |     | **Pishop TOTAL**                 | **\$79.96**  |
-|        |                                        |                                                                                                     |     |                                  |              |
-|        |                                        |                                                                                                     |     | **Items (Amazon)**               | **\$88.50**  |
-|        |                                        |                                                                                                     |     | **Shipping & handling (Amazon)** | **\$0.00**   |
-|        |                                        |                                                                                                     |     | **Estimated tax (Amazon)**       | **\$4.69**   |
-|        |                                        |                                                                                                     |     | **Amazon TOTAL**                 | **\$93.06**  |
-|        |                                        |                                                                                                     |     |                                  |              |
-|        |                                        |                                                                                                     |     | **GRAND TOTAL**                  | **\$173.02** |
+| Ref    | Component                              | Description                                                                                         | Qty | Unit Price            | Total        |
+| ------ | -------------------------------------- | --------------------------------------------------------------------------------------------------- | --- | --------------------- | ------------ |
+| RPI5   | Raspberry Pi 5/2GB                     | Raspberry Pi 5 Single Board Computer, 2GB RAM                                                       | 1   | \$65.00               | \$65.00      |
+| TOF    | TOF400C VL53L1X                        | 4M Laser Ranging Sensor Module, TOF Time-of-Flight Distance, IIC Output, 4pcs                       | 1   | \$21.89               | \$21.89      |
+| WIRE   | Fermerry 22AWG Stranded Wire           | 22AWG Stranded Wire Spool, 10ft Each, 6 Colors, Flexible Silicone Hook up Wire Kit, Tinned Copper   | 1   | \$12.29               | \$12.29      |
+| GPS    | NEO-6M GPS Module                      | GPS Module Receiver, Navigation Satellite Positioning, with Antenna, High Sensitivity               | 1   | \$9.99                | \$9.99       |
+| VEST   | JKSafety Hi Vis Reflective Safety Vest | Hi Vis Reflective Safety Vest with Pockets, Mesh Fabric, Construction Safety Apparel, Black, Size L | 1   | \$9.99                | \$9.99       |
+| HAPTIC | HilBeliFU Vibration Motor Module       | DC5V 9000RPM Vibration Motor Module, PWM Control, for DIY/Wearable Smart Device, 3pcs               | 1   | \$7.65                | \$7.65       |
+| CAM    | Arducam 5MP Camera for Raspberry Pi    | 5MP OV5647 Camera Module V1, 1080P HD, for Raspberry Pi 5/4/3/3B+                                   | 1   | \$6.99                | \$6.99       |
+| PSU    | Raspberry Pi 5 Power Supply            | PD Adapter USB C, 5V 5A Power Adapter for Raspberry Pi 5                                            | 1   | \$11.99               | \$11.99      |
+| CONN   | JST-XH 2.54mm Connector Kit            | 460Pcs JST-XH Connector Kit, 2.54mm Male/Female 2/3/4/5/6Pin Header Housing, Terminal Wires         | 1   | \$7.58                | \$7.58       |
+|        |                                        |                                                                                                     |     | **Subtotal**          | **\$153.37** |
+|        |                                        |                                                                                                     |     | **Shipping (Pishop)** | **\$11.51**  |
+|        |                                        |                                                                                                     |     | **Shipping (Amazon)** | **\$0.00**   |
+|        |                                        |                                                                                                     |     | **Tax (Pishop)**      | **\$3.45**   |
+|        |                                        |                                                                                                     |     | **Tax (Amazon)**      | **\$4.69**   |
+|        |                                        |                                                                                                     |     | **TOTAL**             | **\$173.02** |
 
 ### PCBWay
 
